@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    min-height: 3000px;
+    color: whitesmoke;
+    padding-top: 70px;
+}
+
+.menu-dropdown{
+    margin-top: 7px;
+}
+
+.btn-default{
+    color: lightgray;
+}
+
+.btn-default:hover, .btn-default:active, .btn-default:visited{
+    color: whitesmoke;
+}
+
+.btn-default, .btn-default:hover, .btn-default:active, .btn-default:visited {
+    background-color: #000000 !important;
+}
+
+.main-info{
+    margin-top: 40px;
+}
+.join-inline{
+    margin-left: 15px;
+}
