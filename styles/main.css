@@ -2,7 +2,6 @@ body{
     background-color: black;
     min-height: 3000px;
     color: whitesmoke;
-    padding-top: 70px;
 }
 
 .menu-dropdown{
@@ -24,6 +23,31 @@ body{
 .main-info{
     margin-top: 40px;
 }
+
+.main-info img{
+    width: 100%;
+}
 .join-inline{
     margin-left: 15px;
+}
+
+.offers h1{
+    margin-bottom: 30px;
+}
+
+.offer-item span{
+    display: block;
+    text-align: center;
+    margin-top: 7px;
+    width: 205px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.offer-item img{
+    width: 205px;
+    height: 190px;
+    display: block;
+    margin: auto;
 }
